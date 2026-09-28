@@ -1,5 +1,5 @@
 public class calculator {
-    
+
 	public static int sum(int a, int b) {
 		return a + b;
 	}
@@ -9,5 +9,8 @@ public class calculator {
 	}
     public static int div(int a, int b) {
         return a / b;
+
+    public static int mul(int a, int b) {
+        return a * b;
 }
 	

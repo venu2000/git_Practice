@@ -26,11 +26,6 @@ public class Calculator{
 
    }
 
-     public int mod(int a, int b){
-    return a%b;
-
-   }
-
 
 
 

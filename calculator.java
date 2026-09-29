@@ -21,5 +21,17 @@ public class Calculator{
 
    }
 
+     public int pow(int a, int b){
+    return a*b;
+
+   }
+
+     public int mod(int a, int b){
+    return a%b;
+
+   }
+
+
+
 
 }

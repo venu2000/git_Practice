@@ -1,16 +1,25 @@
-public class calculator {
+public class Calculator{
 
-	public static int sum(int a, int b) {
-		return a + b;
-	}
 
-	public static int sub(int a, int b) {
-		return a - b;
-	}
-    public static int div(int a, int b) {
-        return a / b;
+    public statioc void main{
 
-    public static int mul(int a, int b) {
-        return a * b;
+    }
+
+
+   public int addition(int a, int b){
+    return a+b;
+
+   }
+
+  public int sub(int a, int b){
+    return a-b;
+
+   }
+
+     public int div(int a, int b){
+    return a/b;
+
+   }
+
+
 }
-	
